@@ -1,0 +1,27 @@
+
+
+* {
+  background-color: lightcyan;
+width: 800px;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+
+.onpagetitle {
+  background-color: lightpink;
+  padding: 10px;
+  margin: 10px, auto;
+  display: flexbox;
+}
+
+.descriptiontext{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  display: block;
+  width: 30%;
+  margin: auto;
+}
